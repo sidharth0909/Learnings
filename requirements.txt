@@ -3,11 +3,11 @@ langchain
 langchain-core
 
 # OpenAI Integration
-langchain-openai
-openai
+# langchain-openai
+# openai
 
 # Anthropic Integration
-langchain-anthropic
+# langchain-anthropic
 
 # Google Gemini (PaLM) Integration
 langchain-google-genai
