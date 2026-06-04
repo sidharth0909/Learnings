@@ -1,1 +1,1 @@
-A simple repo to track what all i have learnt.
+A simple repo to track what all i have learnt in LangChain.
